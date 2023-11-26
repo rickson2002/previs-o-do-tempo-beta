@@ -1,4 +1,4 @@
-# previs-o-do-tempo-beta
+# previsao-do-tempo-beta
 
 Uma projeto onde é capaz de estar verificando é o clima das cidades
 
